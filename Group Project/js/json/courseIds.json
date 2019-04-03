@@ -1,0 +1,344 @@
+{
+  "courses": [
+    {
+      "id": 816,
+      "courseCode": "CS371"
+    },
+    {
+      "id": 11009,
+      "courseCode": "CS371"
+    },
+    {
+      "id": 11157,
+      "courseCode": "CS124"
+    },
+    {
+      "id": 11997,
+      "courseCode": "CS237"
+    },
+    {
+      "id": 13875,
+      "courseCode": "CS101"
+    },
+    {
+      "id": 13876,
+      "courseCode": "CS101"
+    },
+    {
+      "id": 13878,
+      "courseCode": "CS124"
+    },
+    {
+      "id": 13880,
+      "courseCode": "CS124"
+    },
+    {
+      "id": 13881,
+      "courseCode": "CS124"
+    },
+    {
+      "id": 13882,
+      "courseCode": "CS124"
+    },
+    {
+      "id": 13888,
+      "courseCode": "CS124"
+    },
+    {
+      "id": 13889,
+      "courseCode": "CS124"
+    },
+    {
+      "id": 13912,
+      "courseCode": "CS237"
+    },
+    {
+      "id": 13915,
+      "courseCode": "CS238"
+    },
+    {
+      "id": 13918,
+      "courseCode": "CS246"
+    },
+    {
+      "id": 13919,
+      "courseCode": "CS246"
+    },
+    {
+      "id": 13922,
+      "courseCode": "CS308"
+    },
+    {
+      "id": 13925,
+      "courseCode": "CS398"
+    },
+    {
+      "id": 13926,
+      "courseCode": "CS432"
+    },
+    {
+      "id": 13927,
+      "courseCode": "CS450"
+    },
+    {
+      "id": 13929,
+      "courseCode": "CS470"
+    },
+    {
+      "id": 14061,
+      "courseCode": "ECEN101"
+    },
+    {
+      "id": 14063,
+      "courseCode": "ECEN150"
+    },
+    {
+      "id": 14073,
+      "courseCode": "ECEN250"
+    },
+    {
+      "id": 14074,
+      "courseCode": "ECEN260"
+    },
+    {
+      "id": 14076,
+      "courseCode": "ECEN324"
+    },
+    {
+      "id": 14077,
+      "courseCode": "ECEN340"
+    },
+    {
+      "id": 14078,
+      "courseCode": "ECEN350"
+    },
+    {
+      "id": 14079,
+      "courseCode": "ECEN361"
+    },
+    {
+      "id": 14080,
+      "courseCode": "ECEN380"
+    },
+    {
+      "id": 14082,
+      "courseCode": "ECEN398R"
+    },
+    {
+      "id": 14084,
+      "courseCode": "ECEN420"
+    },
+    {
+      "id": 14087,
+      "courseCode": "ECEN470"
+    },
+    {
+      "id": 14091,
+      "courseCode": "ECEN499"
+    },
+    {
+      "id": 17106,
+      "courseCode": "ECEN390"
+    },
+    {
+      "id": 18270,
+      "courseCode": "CS312"
+    },
+    {
+      "id": 18300,
+      "courseCode": "CS416"
+    },
+    {
+      "id": 18970,
+      "courseCode": "CS490R"
+    },
+    {
+      "id": 20800,
+      "courseCode": "CS124"
+    },
+    {
+      "id": 28366,
+      "courseCode": "CS101"
+    },
+    {
+      "id": 28368,
+      "courseCode": "CS124"
+    },
+    {
+      "id": 28370,
+      "courseCode": "CS124-1"
+    },
+    {
+      "id": 28372,
+      "courseCode": "CS124"
+    },
+    {
+      "id": 28376,
+      "courseCode": "CS124"
+    },
+    {
+      "id": 28378,
+      "courseCode": "CS124"
+    },
+    {
+      "id": 28382,
+      "courseCode": "CS124"
+    },
+    {
+      "id": 28388,
+      "courseCode": "CS165"
+    },
+    {
+      "id": 28390,
+      "courseCode": "CS165"
+    },
+    {
+      "id": 28394,
+      "courseCode": "CS165"
+    },
+    {
+      "id": 28396,
+      "courseCode": "CS165"
+    },
+    {
+      "id": 28414,
+      "courseCode": "CS238"
+    },
+    {
+      "id": 28418,
+      "courseCode": "CS246"
+    },
+    {
+      "id": 28422,
+      "courseCode": "CS308"
+    },
+    {
+      "id": 28426,
+      "courseCode": "CS312"
+    },
+    {
+      "id": 28432,
+      "courseCode": "CS345"
+    },
+    {
+      "id": 28434,
+      "courseCode": "CS364"
+    },
+    {
+      "id": 28438,
+      "courseCode": "CS398"
+    },
+    {
+      "id": 28440,
+      "courseCode": "CS416"
+    },
+    {
+      "id": 28442,
+      "courseCode": "CS432"
+    },
+    {
+      "id": 28444,
+      "courseCode": "CS450"
+    },
+    {
+      "id": 28446,
+      "courseCode": "CS460"
+    },
+    {
+      "id": 28448,
+      "courseCode": "CS470"
+    },
+    {
+      "id": 28454,
+      "courseCode": "CS498R"
+    },
+    {
+      "id": 28666,
+      "courseCode": "ECEN101"
+    },
+    {
+      "id": 28672,
+      "courseCode": "ECEN160"
+    },
+    {
+      "id": 28678,
+      "courseCode": "ECEN160L"
+    },
+    {
+      "id": 28688,
+      "courseCode": "ECEN324"
+    },
+    {
+      "id": 28690,
+      "courseCode": "ECEN350"
+    },
+    {
+      "id": 28694,
+      "courseCode": "ECEN380"
+    },
+    {
+      "id": 28696,
+      "courseCode": "ECEN398R"
+    },
+    {
+      "id": 28698,
+      "courseCode": "ECEN410"
+    },
+    {
+      "id": 28700,
+      "courseCode": "ECEN430"
+    },
+    {
+      "id": 28702,
+      "courseCode": "ECEN451"
+    },
+    {
+      "id": 28704,
+      "courseCode": "ECEN461"
+    },
+    {
+      "id": 28706,
+      "courseCode": "ECEN480"
+    },
+    {
+      "id": 28708,
+      "courseCode": "ECEN499"
+    },
+    {
+      "id": 33240,
+      "courseCode": "ECEN150"
+    },
+    {
+      "id": 33302,
+      "courseCode": "CS235"
+    },
+    {
+      "id": 33322,
+      "courseCode": "CS241"
+    },
+    {
+      "id": 35210,
+      "courseCode": "ECEN351"
+    },
+    {
+      "id": 35260,
+      "courseCode": "ECEN260"
+    },
+    {
+      "id": 39008,
+      "courseCode": "CS313"
+    },
+    {
+      "id": 39030,
+      "courseCode": "CS101"
+    },
+    {
+      "id": 46328,
+      "courseCode": "ECEN490R"
+    },
+    {
+      "id": 46528,
+      "courseCode": "ECEN440"
+    }
+  ]
+}

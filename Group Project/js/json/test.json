@@ -1,0 +1,39 @@
+[
+  {
+    "id": 404802,
+    "user_id": 40162,
+    "course_id": 33302,
+    "type": "TeacherEnrollment",
+    "created_at": "2018-11-26T16:32:20Z",
+    "updated_at": "2019-01-07T16:14:31Z",
+    "associated_user_id": null,
+    "start_at": null,
+    "end_at": null,
+    "course_section_id": 26320,
+    "root_account_id": 1,
+    "limit_privileges_to_course_section": false,
+    "enrollment_state": "active",
+    "role": "TeacherEnrollment",
+    "role_id": 4,
+    "last_activity_at": "2019-03-11T23:10:00Z",
+    "last_attended_at": null,
+    "total_activity_time": 69663,
+    "sis_account_id": "CSEN",
+    "sis_course_id": "C.Campus.2019.Winter.CS 235.1",
+    "course_integration_id": null,
+    "sis_section_id": "Campus.2019.Winter.CS 235.1",
+    "section_integration_id": null,
+    "sis_user_id": "058590050",
+    "html_url": "https://byui.instructure.com/courses/33302/users/40162",
+    "user": {
+      "id": 40162,
+      "name": "Matt Manley",
+      "created_at": "2018-04-18T09:00:25-06:00",
+      "sortable_name": "Manley, Matt",
+      "short_name": "Matt Manley",
+      "sis_user_id": "058590050",
+      "integration_id": null,
+      "root_account": "byui.instructure.com"
+    }
+  }
+]
