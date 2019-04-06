@@ -147,10 +147,10 @@
     "userId": 1405,
     "courseId": 39030,
     "inumber": "017395713",
-    "currentScore": 92.5,
-    "finalScore": 74,
-    "currentGrade": "A-",
-    "finalGrade": "C"
+    "currentScore": 93.33,
+    "finalScore": 84,
+    "currentGrade": "A",
+    "finalGrade": "B"
   },
   {
     "userId": 66943,
@@ -1182,8 +1182,8 @@
     "userId": 14666,
     "courseId": 35260,
     "inumber": "407201153",
-    "currentScore": 90.45,
-    "finalScore": 57.21,
+    "currentScore": 90.81,
+    "finalScore": 58.56,
     "currentGrade": "A-",
     "finalGrade": "F"
   },
@@ -1272,8 +1272,8 @@
     "userId": 45112,
     "courseId": 35260,
     "inumber": "721139028",
-    "currentScore": 93.58,
-    "finalScore": 57.43,
+    "currentScore": 93.85,
+    "finalScore": 58.79,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -1686,8 +1686,8 @@
     "userId": 15397,
     "courseId": 33322,
     "inumber": "429158004",
-    "currentScore": 90.89,
-    "finalScore": 71.47,
+    "currentScore": 92.41,
+    "finalScore": 72.84,
     "currentGrade": "A-",
     "finalGrade": "C-"
   },
@@ -1992,8 +1992,8 @@
     "userId": 69343,
     "courseId": 33322,
     "inumber": "735081354",
-    "currentScore": 98.53,
-    "finalScore": 77.57,
+    "currentScore": 98.51,
+    "finalScore": 77.94,
     "currentGrade": "A",
     "finalGrade": "C+"
   },
@@ -2011,7 +2011,7 @@
     "courseId": 33322,
     "inumber": "331351999",
     "currentScore": 94.55,
-    "finalScore": 74.3,
+    "finalScore": 74.72,
     "currentGrade": "A",
     "finalGrade": "C"
   },
@@ -3468,9 +3468,9 @@
     "userId": 21693,
     "courseId": 28704,
     "inumber": "618591210",
-    "currentScore": 33.33,
-    "finalScore": 20,
-    "currentGrade": "F",
+    "currentScore": 83.33,
+    "finalScore": 50,
+    "currentGrade": "B",
     "finalGrade": "F"
   },
   {
@@ -3486,8 +3486,8 @@
     "userId": 33960,
     "courseId": 28704,
     "inumber": "987788436",
-    "currentScore": 6.06,
-    "finalScore": 3.64,
+    "currentScore": 47.73,
+    "finalScore": 28.64,
     "currentGrade": "F",
     "finalGrade": "F"
   },
@@ -3522,9 +3522,9 @@
     "userId": 1092,
     "courseId": 28704,
     "inumber": "007907539",
-    "currentScore": 73.48,
-    "finalScore": 44.09,
-    "currentGrade": "C",
+    "currentScore": 90.15,
+    "finalScore": 54.09,
+    "currentGrade": "A-",
     "finalGrade": "F"
   },
   {
@@ -3549,18 +3549,18 @@
     "userId": 3308,
     "courseId": 28704,
     "inumber": "073697686",
-    "currentScore": 100,
-    "finalScore": 60,
+    "currentScore": 94,
+    "finalScore": 94,
     "currentGrade": "A",
-    "finalGrade": "D-"
+    "finalGrade": "A"
   },
   {
     "userId": 8916,
     "courseId": 28704,
     "inumber": "238281658",
-    "currentScore": 75,
-    "finalScore": 45,
-    "currentGrade": "C",
+    "currentScore": 91.67,
+    "finalScore": 55,
+    "currentGrade": "A-",
     "finalGrade": "F"
   },
   {
@@ -3630,10 +3630,10 @@
     "userId": 18363,
     "courseId": 28704,
     "inumber": "519469588",
-    "currentScore": 91.67,
-    "finalScore": 55,
-    "currentGrade": "A-",
-    "finalGrade": "F"
+    "currentScore": 89,
+    "finalScore": 89,
+    "currentGrade": "B+",
+    "finalGrade": "B+"
   },
   {
     "userId": 10054,
@@ -3729,8 +3729,8 @@
     "userId": 13825,
     "courseId": 28702,
     "inumber": "382458792",
-    "currentScore": 96.84,
-    "finalScore": 58.24,
+    "currentScore": 96.69,
+    "finalScore": 58.56,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -3873,26 +3873,26 @@
     "userId": 31686,
     "courseId": 28700,
     "inumber": "920228191",
-    "currentScore": 91.08,
-    "finalScore": 59.65,
+    "currentScore": 90.71,
+    "finalScore": 61.05,
     "currentGrade": "A-",
-    "finalGrade": "F"
+    "finalGrade": "D-"
   },
   {
     "userId": 41332,
     "courseId": 28700,
     "inumber": "160368992",
-    "currentScore": 95.74,
-    "finalScore": 62.72,
+    "currentScore": 95.75,
+    "finalScore": 64.49,
     "currentGrade": "A",
-    "finalGrade": "D-"
+    "finalGrade": "D"
   },
   {
     "userId": 12192,
     "courseId": 28700,
     "inumber": "333307093",
-    "currentScore": 88.28,
-    "finalScore": 57.6,
+    "currentScore": 87.99,
+    "finalScore": 59,
     "currentGrade": "B+",
     "finalGrade": "F"
   },
@@ -3900,8 +3900,8 @@
     "userId": 3661,
     "courseId": 28700,
     "inumber": "083674805",
-    "currentScore": 93.82,
-    "finalScore": 60.35,
+    "currentScore": 93.64,
+    "finalScore": 61.92,
     "currentGrade": "A",
     "finalGrade": "D-"
   },
@@ -3909,17 +3909,17 @@
     "userId": 32355,
     "courseId": 28700,
     "inumber": "940773337",
-    "currentScore": 94.05,
-    "finalScore": 61.66,
+    "currentScore": 93.94,
+    "finalScore": 63.35,
     "currentGrade": "A",
-    "finalGrade": "D-"
+    "finalGrade": "D"
   },
   {
     "userId": 21053,
     "courseId": 28700,
     "inumber": "599551452",
-    "currentScore": 87.85,
-    "finalScore": 57.2,
+    "currentScore": 87.74,
+    "finalScore": 58.85,
     "currentGrade": "B+",
     "finalGrade": "F"
   },
@@ -3928,9 +3928,9 @@
     "courseId": 28700,
     "inumber": "502584955",
     "currentScore": 94.52,
-    "finalScore": 61.76,
+    "finalScore": 63.53,
     "currentGrade": "A",
-    "finalGrade": "D-"
+    "finalGrade": "D"
   },
   {
     "userId": 12442,
@@ -4197,8 +4197,8 @@
     "userId": 12461,
     "courseId": 28696,
     "inumber": "341306464",
-    "currentScore": 100,
-    "finalScore": 22.83,
+    "currentScore": 96.99,
+    "finalScore": 38.17,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -4207,7 +4207,7 @@
     "courseId": 28696,
     "inumber": "090146316",
     "currentScore": 100,
-    "finalScore": 38.34,
+    "finalScore": 44.86,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -4413,8 +4413,8 @@
     "userId": 12442,
     "courseId": 28690,
     "inumber": "340788950",
-    "currentScore": 84.2,
-    "finalScore": 50.82,
+    "currentScore": 84.11,
+    "finalScore": 52.7,
     "currentGrade": "B",
     "finalGrade": "F"
   },
@@ -4431,9 +4431,9 @@
     "userId": 14099,
     "courseId": 28690,
     "inumber": "390731418",
-    "currentScore": 82.59,
-    "finalScore": 54.5,
-    "currentGrade": "B",
+    "currentScore": 81.82,
+    "finalScore": 55.68,
+    "currentGrade": "B-",
     "finalGrade": "F"
   },
   {
@@ -4449,25 +4449,25 @@
     "userId": 3240,
     "courseId": 28690,
     "inumber": "071421218",
-    "currentScore": 92.64,
-    "finalScore": 57,
-    "currentGrade": "A",
+    "currentScore": 92.49,
+    "finalScore": 58.75,
+    "currentGrade": "A-",
     "finalGrade": "F"
   },
   {
     "userId": 17376,
     "courseId": 28690,
     "inumber": "491233931",
-    "currentScore": 90.35,
-    "finalScore": 57.74,
+    "currentScore": 90.3,
+    "finalScore": 59.7,
     "currentGrade": "A-",
-    "finalGrade": "F"
+    "finalGrade": "D-"
   },
   {
     "userId": 27307,
     "courseId": 28690,
     "inumber": "787905539",
-    "currentScore": 38.81,
+    "currentScore": 38.5,
     "finalScore": 18.06,
     "currentGrade": "F",
     "finalGrade": "F"
@@ -4476,17 +4476,17 @@
     "userId": 16136,
     "courseId": 28690,
     "inumber": "451814658",
-    "currentScore": 93.1,
-    "finalScore": 58.52,
+    "currentScore": 92.74,
+    "finalScore": 60.28,
     "currentGrade": "A",
-    "finalGrade": "F"
+    "finalGrade": "D-"
   },
   {
     "userId": 27252,
     "courseId": 28690,
     "inumber": "786428269",
-    "currentScore": 90.79,
-    "finalScore": 57.39,
+    "currentScore": 90.44,
+    "finalScore": 59.13,
     "currentGrade": "A-",
     "finalGrade": "F"
   },
@@ -4494,8 +4494,8 @@
     "userId": 31863,
     "courseId": 28690,
     "inumber": "925309270",
-    "currentScore": 61.04,
-    "finalScore": 32.67,
+    "currentScore": 60.49,
+    "finalScore": 33.86,
     "currentGrade": "D-",
     "finalGrade": "F"
   },
@@ -4503,26 +4503,26 @@
     "userId": 27515,
     "courseId": 28690,
     "inumber": "794597067",
-    "currentScore": 92.71,
-    "finalScore": 58.39,
-    "currentGrade": "A",
-    "finalGrade": "F"
+    "currentScore": 92.54,
+    "finalScore": 60.19,
+    "currentGrade": "A-",
+    "finalGrade": "D-"
   },
   {
     "userId": 22571,
     "courseId": 28690,
     "inumber": "644860123",
-    "currentScore": 92.38,
-    "finalScore": 58.25,
+    "currentScore": 92.11,
+    "finalScore": 60.03,
     "currentGrade": "A-",
-    "finalGrade": "F"
+    "finalGrade": "D-"
   },
   {
     "userId": 5126,
     "courseId": 28690,
     "inumber": "125364656",
-    "currentScore": 95.34,
-    "finalScore": 59.97,
+    "currentScore": 95.4,
+    "finalScore": 62.06,
     "currentGrade": "A",
     "finalGrade": "D-"
   },
@@ -4530,8 +4530,8 @@
     "userId": 33041,
     "courseId": 28690,
     "inumber": "960972728",
-    "currentScore": 80.09,
-    "finalScore": 52.35,
+    "currentScore": 79.94,
+    "finalScore": 54.16,
     "currentGrade": "B-",
     "finalGrade": "F"
   },
@@ -4539,17 +4539,17 @@
     "userId": 6468,
     "courseId": 28690,
     "inumber": "166196581",
-    "currentScore": 95.41,
-    "finalScore": 60.64,
+    "currentScore": 95.52,
+    "finalScore": 62.72,
     "currentGrade": "A",
-    "finalGrade": "D-"
+    "finalGrade": "D"
   },
   {
     "userId": 4967,
     "courseId": 28690,
     "inumber": "120741572",
-    "currentScore": 90.66,
-    "finalScore": 56.98,
+    "currentScore": 90.79,
+    "finalScore": 59.07,
     "currentGrade": "A-",
     "finalGrade": "F"
   },
@@ -4557,8 +4557,8 @@
     "userId": 9881,
     "courseId": 28690,
     "inumber": "266935050",
-    "currentScore": 87.46,
-    "finalScore": 55.27,
+    "currentScore": 87.32,
+    "finalScore": 57.18,
     "currentGrade": "B+",
     "finalGrade": "F"
   },
@@ -4566,8 +4566,8 @@
     "userId": 31542,
     "courseId": 28690,
     "inumber": "916118048",
-    "currentScore": 77.19,
-    "finalScore": 50.3,
+    "currentScore": 76.76,
+    "finalScore": 51.82,
     "currentGrade": "C+",
     "finalGrade": "F"
   },
@@ -4575,8 +4575,8 @@
     "userId": 18634,
     "courseId": 28690,
     "inumber": "527541554",
-    "currentScore": 77.11,
-    "finalScore": 50.4,
+    "currentScore": 76.7,
+    "finalScore": 51.98,
     "currentGrade": "C+",
     "finalGrade": "F"
   },
@@ -4584,17 +4584,17 @@
     "userId": 41077,
     "courseId": 28690,
     "inumber": "125682069",
-    "currentScore": 65.92,
-    "finalScore": 42.59,
-    "currentGrade": "D",
+    "currentScore": 66.99,
+    "finalScore": 44.41,
+    "currentGrade": "D+",
     "finalGrade": "F"
   },
   {
     "userId": 1892,
     "courseId": 28690,
     "inumber": "031473827",
-    "currentScore": 83.87,
-    "finalScore": 53.04,
+    "currentScore": 82.98,
+    "finalScore": 53.97,
     "currentGrade": "B",
     "finalGrade": "F"
   },
@@ -4602,8 +4602,8 @@
     "userId": 45112,
     "courseId": 28690,
     "inumber": "721139028",
-    "currentScore": 90.7,
-    "finalScore": 57.92,
+    "currentScore": 89.89,
+    "finalScore": 59.21,
     "currentGrade": "A-",
     "finalGrade": "F"
   },
@@ -4611,8 +4611,8 @@
     "userId": 13826,
     "courseId": 28690,
     "inumber": "382500455",
-    "currentScore": 78.62,
-    "finalScore": 51.12,
+    "currentScore": 79.01,
+    "finalScore": 53.1,
     "currentGrade": "C+",
     "finalGrade": "F"
   },
@@ -4629,8 +4629,8 @@
     "userId": 33231,
     "courseId": 28690,
     "inumber": "966837914",
-    "currentScore": 87.67,
-    "finalScore": 55.65,
+    "currentScore": 87.69,
+    "finalScore": 57.65,
     "currentGrade": "B+",
     "finalGrade": "F"
   },
@@ -4638,8 +4638,8 @@
     "userId": 17482,
     "courseId": 28690,
     "inumber": "494541863",
-    "currentScore": 76.97,
-    "finalScore": 50.21,
+    "currentScore": 76.95,
+    "finalScore": 52.06,
     "currentGrade": "C+",
     "finalGrade": "F"
   },
@@ -4647,8 +4647,8 @@
     "userId": 56687,
     "courseId": 28690,
     "inumber": "029484142",
-    "currentScore": 95,
-    "finalScore": 59.58,
+    "currentScore": 95.05,
+    "finalScore": 61.62,
     "currentGrade": "A",
     "finalGrade": "D-"
   },
@@ -4656,18 +4656,18 @@
     "userId": 30747,
     "courseId": 28690,
     "inumber": "891212420",
-    "currentScore": 92.35,
-    "finalScore": 58.15,
+    "currentScore": 92.15,
+    "finalScore": 59.96,
     "currentGrade": "A-",
-    "finalGrade": "F"
+    "finalGrade": "D-"
   },
   {
     "userId": 28564,
     "courseId": 28690,
     "inumber": "826479042",
-    "currentScore": 69.98,
-    "finalScore": 47.16,
-    "currentGrade": "C-",
+    "currentScore": 69.42,
+    "finalScore": 48.6,
+    "currentGrade": "D+",
     "finalGrade": "F"
   },
   {
@@ -4683,8 +4683,8 @@
     "userId": 96071,
     "courseId": 28690,
     "inumber": "644457702",
-    "currentScore": 78.41,
-    "finalScore": 48.22,
+    "currentScore": 77.95,
+    "finalScore": 49.82,
     "currentGrade": "C+",
     "finalGrade": "F"
   },
@@ -4692,8 +4692,8 @@
     "userId": 44790,
     "courseId": 28690,
     "inumber": "670318986",
-    "currentScore": 76.24,
-    "finalScore": 46.06,
+    "currentScore": 75.32,
+    "finalScore": 47.36,
     "currentGrade": "C",
     "finalGrade": "F"
   },
@@ -5188,9 +5188,9 @@
     "courseId": 28678,
     "inumber": "187013657",
     "currentScore": 100,
-    "finalScore": 84.35,
+    "finalScore": 94.13,
     "currentGrade": "A",
-    "finalGrade": "B"
+    "finalGrade": "A"
   },
   {
     "userId": 24947,
@@ -5295,10 +5295,10 @@
     "userId": 61547,
     "courseId": 28678,
     "inumber": "292641133",
-    "currentScore": 97.68,
-    "finalScore": 82.39,
+    "currentScore": 97.92,
+    "finalScore": 92.17,
     "currentGrade": "A",
-    "finalGrade": "B-"
+    "finalGrade": "A-"
   },
   {
     "userId": 13901,
@@ -5494,9 +5494,9 @@
     "courseId": 28678,
     "inumber": "245536790",
     "currentScore": 100,
-    "finalScore": 84.35,
+    "finalScore": 94.13,
     "currentGrade": "A",
-    "finalGrade": "B"
+    "finalGrade": "A"
   },
   {
     "userId": 17464,
@@ -5565,10 +5565,10 @@
     "userId": 59973,
     "courseId": 28678,
     "inumber": "207807673",
-    "currentScore": 97.81,
-    "finalScore": 82.5,
+    "currentScore": 98.04,
+    "finalScore": 92.28,
     "currentGrade": "A",
-    "finalGrade": "B-"
+    "finalGrade": "A-"
   },
   {
     "userId": 46519,
@@ -5610,19 +5610,19 @@
     "userId": 49565,
     "courseId": 28672,
     "inumber": "966292800",
-    "currentScore": 96.89,
-    "finalScore": 63.52,
+    "currentScore": 94.56,
+    "finalScore": 71.46,
     "currentGrade": "A",
-    "finalGrade": "D-"
+    "finalGrade": "C-"
   },
   {
     "userId": 72797,
     "courseId": 28672,
     "inumber": "925711500",
-    "currentScore": 94.15,
-    "finalScore": 62.56,
-    "currentGrade": "A",
-    "finalGrade": "D-"
+    "currentScore": 90.88,
+    "finalScore": 68.63,
+    "currentGrade": "A-",
+    "finalGrade": "D+"
   },
   {
     "userId": 54061,
@@ -5637,10 +5637,10 @@
     "userId": 24947,
     "courseId": 28672,
     "inumber": "717129798",
-    "currentScore": 99.37,
-    "finalScore": 83.03,
+    "currentScore": 105.18,
+    "finalScore": 90.03,
     "currentGrade": "A",
-    "finalGrade": "B-"
+    "finalGrade": "A-"
   },
   {
     "userId": 52671,
@@ -5655,10 +5655,10 @@
     "userId": 25030,
     "courseId": 28672,
     "inumber": "720107144",
-    "currentScore": 94.46,
-    "finalScore": 61.26,
-    "currentGrade": "A",
-    "finalGrade": "D-"
+    "currentScore": 92.04,
+    "finalScore": 68.94,
+    "currentGrade": "A-",
+    "finalGrade": "D+"
   },
   {
     "userId": 46756,
@@ -5691,7 +5691,7 @@
     "userId": 40959,
     "courseId": 28672,
     "inumber": "109293827",
-    "currentScore": 58.32,
+    "currentScore": 47.46,
     "finalScore": 28.12,
     "currentGrade": "F",
     "finalGrade": "F"
@@ -5700,53 +5700,53 @@
     "userId": 71511,
     "courseId": 28672,
     "inumber": "854480140",
-    "currentScore": 96.84,
-    "finalScore": 63.92,
+    "currentScore": 96.12,
+    "finalScore": 72.61,
     "currentGrade": "A",
-    "finalGrade": "D-"
+    "finalGrade": "C-"
   },
   {
     "userId": 56485,
     "courseId": 28672,
     "inumber": "018519794",
-    "currentScore": 66.14,
+    "currentScore": 56.32,
     "finalScore": 34.8,
-    "currentGrade": "D",
+    "currentGrade": "F",
     "finalGrade": "F"
   },
   {
     "userId": 43986,
     "courseId": 28672,
     "inumber": "551717183",
-    "currentScore": 90.62,
-    "finalScore": 59.61,
+    "currentScore": 90.3,
+    "finalScore": 67.64,
     "currentGrade": "A-",
-    "finalGrade": "F"
+    "finalGrade": "D+"
   },
   {
     "userId": 14098,
     "courseId": 28672,
     "inumber": "390728978",
-    "currentScore": 75.82,
-    "finalScore": 49.77,
-    "currentGrade": "C",
+    "currentScore": 72.52,
+    "finalScore": 54.7,
+    "currentGrade": "C-",
     "finalGrade": "F"
   },
   {
     "userId": 58757,
     "courseId": 28672,
     "inumber": "137622561",
-    "currentScore": 82.41,
-    "finalScore": 55.5,
-    "currentGrade": "B-",
+    "currentScore": 79.44,
+    "finalScore": 59.99,
+    "currentGrade": "C+",
     "finalGrade": "F"
   },
   {
     "userId": 41364,
     "courseId": 28672,
     "inumber": "166138068",
-    "currentScore": 73.86,
-    "finalScore": 42.84,
+    "currentScore": 70.51,
+    "finalScore": 46.24,
     "currentGrade": "C-",
     "finalGrade": "F"
   },
@@ -5754,10 +5754,10 @@
     "userId": 26297,
     "courseId": 28672,
     "inumber": "758307276",
-    "currentScore": 96.26,
-    "finalScore": 62.89,
-    "currentGrade": "A",
-    "finalGrade": "D-"
+    "currentScore": 93.11,
+    "finalScore": 69.75,
+    "currentGrade": "A-",
+    "finalGrade": "D+"
   },
   {
     "userId": 61103,
@@ -5772,64 +5772,64 @@
     "userId": 53293,
     "courseId": 28672,
     "inumber": "945296496",
-    "currentScore": 94.87,
-    "finalScore": 62.62,
-    "currentGrade": "A",
-    "finalGrade": "D-"
+    "currentScore": 91.39,
+    "finalScore": 69.03,
+    "currentGrade": "A-",
+    "finalGrade": "D+"
   },
   {
     "userId": 74755,
     "courseId": 28672,
     "inumber": "024991798",
-    "currentScore": 87.95,
-    "finalScore": 57.64,
-    "currentGrade": "B+",
-    "finalGrade": "F"
+    "currentScore": 84.1,
+    "finalScore": 63.49,
+    "currentGrade": "B",
+    "finalGrade": "D-"
   },
   {
     "userId": 763,
     "courseId": 28672,
     "inumber": "528292333",
-    "currentScore": 81.95,
-    "finalScore": 54.98,
-    "currentGrade": "B-",
+    "currentScore": 77.88,
+    "finalScore": 58.79,
+    "currentGrade": "C+",
     "finalGrade": "F"
   },
   {
     "userId": 24207,
     "courseId": 28672,
     "inumber": "694758400",
-    "currentScore": 97.25,
-    "finalScore": 70.65,
+    "currentScore": 95.25,
+    "finalScore": 78.48,
     "currentGrade": "A",
-    "finalGrade": "C-"
+    "finalGrade": "C+"
   },
   {
     "userId": 71259,
     "courseId": 28672,
     "inumber": "838887849",
-    "currentScore": 97.89,
-    "finalScore": 64.41,
+    "currentScore": 95.19,
+    "finalScore": 71.91,
     "currentGrade": "A",
-    "finalGrade": "D"
+    "finalGrade": "C-"
   },
   {
     "userId": 52833,
     "courseId": 28672,
     "inumber": "935969011",
-    "currentScore": 91.71,
-    "finalScore": 58.94,
+    "currentScore": 90.09,
+    "finalScore": 67.11,
     "currentGrade": "A-",
-    "finalGrade": "F"
+    "finalGrade": "D+"
   },
   {
     "userId": 14094,
     "courseId": 28672,
     "inumber": "390621024",
-    "currentScore": 93.2,
-    "finalScore": 58.9,
+    "currentScore": 91.62,
+    "finalScore": 66.76,
     "currentGrade": "A-",
-    "finalGrade": "F"
+    "finalGrade": "D"
   },
   {
     "userId": 59867,
@@ -5844,63 +5844,63 @@
     "userId": 61547,
     "courseId": 28672,
     "inumber": "292641133",
-    "currentScore": 91.27,
-    "finalScore": 67.4,
-    "currentGrade": "A-",
-    "finalGrade": "D+"
+    "currentScore": 89.79,
+    "finalScore": 75.22,
+    "currentGrade": "B+",
+    "finalGrade": "C"
   },
   {
     "userId": 14818,
     "courseId": 28672,
     "inumber": "412469819",
-    "currentScore": 94.09,
-    "finalScore": 59.8,
-    "currentGrade": "A",
-    "finalGrade": "F"
+    "currentScore": 91.63,
+    "finalScore": 66.71,
+    "currentGrade": "A-",
+    "finalGrade": "D"
   },
   {
     "userId": 36595,
     "courseId": 28672,
     "inumber": "969750037",
-    "currentScore": 76.68,
+    "currentScore": 64.7,
     "finalScore": 40.44,
-    "currentGrade": "C",
+    "currentGrade": "D",
     "finalGrade": "F"
   },
   {
     "userId": 13926,
     "courseId": 28672,
     "inumber": "385780841",
-    "currentScore": 88.16,
-    "finalScore": 58.41,
-    "currentGrade": "B+",
-    "finalGrade": "F"
+    "currentScore": 82.86,
+    "finalScore": 62.57,
+    "currentGrade": "B-",
+    "finalGrade": "D-"
   },
   {
     "userId": 95865,
     "courseId": 28672,
     "inumber": "599882977",
-    "currentScore": 98.3,
-    "finalScore": 61.66,
+    "currentScore": 97.47,
+    "finalScore": 70.6,
     "currentGrade": "A",
-    "finalGrade": "D-"
+    "finalGrade": "C-"
   },
   {
     "userId": 44183,
     "courseId": 28672,
     "inumber": "581586004",
-    "currentScore": 95.62,
-    "finalScore": 63.05,
+    "currentScore": 94.79,
+    "finalScore": 71.63,
     "currentGrade": "A",
-    "finalGrade": "D-"
+    "finalGrade": "C-"
   },
   {
     "userId": 70577,
     "courseId": 28672,
     "inumber": "802393405",
-    "currentScore": 71.09,
-    "finalScore": 48.34,
-    "currentGrade": "C-",
+    "currentScore": 69.82,
+    "finalScore": 52.76,
+    "currentGrade": "D+",
     "finalGrade": "F"
   },
   {
@@ -5916,8 +5916,8 @@
     "userId": 12654,
     "courseId": 28672,
     "inumber": "346818421",
-    "currentScore": 73.3,
-    "finalScore": 46.82,
+    "currentScore": 73.11,
+    "finalScore": 54.19,
     "currentGrade": "C-",
     "finalGrade": "F"
   },
@@ -5925,36 +5925,36 @@
     "userId": 33076,
     "courseId": 28672,
     "inumber": "962070465",
-    "currentScore": 76.18,
+    "currentScore": 65.11,
     "finalScore": 40.92,
-    "currentGrade": "C",
+    "currentGrade": "D",
     "finalGrade": "F"
   },
   {
     "userId": 24106,
     "courseId": 28672,
     "inumber": "691131241",
-    "currentScore": 94.71,
-    "finalScore": 60.14,
-    "currentGrade": "A",
-    "finalGrade": "F"
+    "currentScore": 91.2,
+    "finalScore": 66.38,
+    "currentGrade": "A-",
+    "finalGrade": "D"
   },
   {
     "userId": 3499,
     "courseId": 28672,
     "inumber": "079111587",
-    "currentScore": 86.98,
+    "currentScore": 74.8,
     "finalScore": 54.04,
-    "currentGrade": "B",
+    "currentGrade": "C",
     "finalGrade": "F"
   },
   {
     "userId": 61945,
     "courseId": 28672,
     "inumber": "315367439",
-    "currentScore": 74.56,
-    "finalScore": 46.81,
-    "currentGrade": "C",
+    "currentScore": 73.48,
+    "finalScore": 52.64,
+    "currentGrade": "C-",
     "finalGrade": "F"
   },
   {
@@ -5970,16 +5970,16 @@
     "userId": 70927,
     "courseId": 28672,
     "inumber": "822250146",
-    "currentScore": 89.56,
-    "finalScore": 58.91,
+    "currentScore": 89.45,
+    "finalScore": 67.61,
     "currentGrade": "B+",
-    "finalGrade": "F"
+    "finalGrade": "D+"
   },
   {
     "userId": 71047,
     "courseId": 28672,
     "inumber": "827507387",
-    "currentScore": 32.92,
+    "currentScore": 27.48,
     "finalScore": 13.58,
     "currentGrade": "F",
     "finalGrade": "F"
@@ -5988,16 +5988,16 @@
     "userId": 29731,
     "courseId": 28672,
     "inumber": "861452508",
-    "currentScore": 92.25,
-    "finalScore": 58.89,
-    "currentGrade": "A-",
-    "finalGrade": "F"
+    "currentScore": 87.59,
+    "finalScore": 63.63,
+    "currentGrade": "B+",
+    "finalGrade": "D-"
   },
   {
     "userId": 1887,
     "courseId": 28672,
     "inumber": "031284686",
-    "currentScore": 31.53,
+    "currentScore": 26.35,
     "finalScore": 11.3,
     "currentGrade": "F",
     "finalGrade": "F"
@@ -6006,9 +6006,9 @@
     "userId": 66551,
     "courseId": 28672,
     "inumber": "580561270",
-    "currentScore": 82.29,
-    "finalScore": 48.99,
-    "currentGrade": "B-",
+    "currentScore": 70.79,
+    "finalScore": 49.54,
+    "currentGrade": "C-",
     "finalGrade": "F"
   },
   {
@@ -6024,25 +6024,25 @@
     "userId": 4637,
     "courseId": 28672,
     "inumber": "111573072",
-    "currentScore": 78.98,
-    "finalScore": 51.69,
-    "currentGrade": "C+",
+    "currentScore": 75.95,
+    "finalScore": 56.85,
+    "currentGrade": "C",
     "finalGrade": "F"
   },
   {
     "userId": 13773,
     "courseId": 28672,
     "inumber": "381033674",
-    "currentScore": 86.43,
-    "finalScore": 54.34,
+    "currentScore": 86.29,
+    "finalScore": 62.17,
     "currentGrade": "B",
-    "finalGrade": "F"
+    "finalGrade": "D-"
   },
   {
     "userId": 16301,
     "courseId": 28672,
     "inumber": "456529388",
-    "currentScore": 19.27,
+    "currentScore": 13.6,
     "finalScore": 8.24,
     "currentGrade": "F",
     "finalGrade": "F"
@@ -6096,10 +6096,10 @@
     "userId": 96525,
     "courseId": 28666,
     "inumber": "736861845",
-    "currentScore": 98.91,
-    "finalScore": 85.05,
+    "currentScore": 99.07,
+    "finalScore": 99.07,
     "currentGrade": "A",
-    "finalGrade": "B"
+    "finalGrade": "A"
   },
   {
     "userId": 18091,
@@ -6115,9 +6115,9 @@
     "courseId": 28666,
     "inumber": "717129798",
     "currentScore": 100,
-    "finalScore": 85.98,
+    "finalScore": 100,
     "currentGrade": "A",
-    "finalGrade": "B"
+    "finalGrade": "A"
   },
   {
     "userId": 59317,
@@ -6159,10 +6159,10 @@
     "userId": 88153,
     "courseId": 28666,
     "inumber": "520954268",
-    "currentScore": 97.83,
-    "finalScore": 84.11,
+    "currentScore": 98.13,
+    "finalScore": 98.13,
     "currentGrade": "A",
-    "finalGrade": "B"
+    "finalGrade": "A"
   },
   {
     "userId": 23433,
@@ -6177,10 +6177,10 @@
     "userId": 89613,
     "courseId": 28666,
     "inumber": "067841815",
-    "currentScore": 96.74,
-    "finalScore": 83.18,
+    "currentScore": 97.2,
+    "finalScore": 97.2,
     "currentGrade": "A",
-    "finalGrade": "B"
+    "finalGrade": "A"
   },
   {
     "userId": 49485,
@@ -6213,10 +6213,10 @@
     "userId": 79413,
     "courseId": 28666,
     "inumber": "098953965",
-    "currentScore": 97.83,
-    "finalScore": 84.11,
+    "currentScore": 98.13,
+    "finalScore": 98.13,
     "currentGrade": "A",
-    "finalGrade": "B"
+    "finalGrade": "A"
   },
   {
     "userId": 15837,
@@ -6267,10 +6267,10 @@
     "userId": 97709,
     "courseId": 28666,
     "inumber": "995260075",
-    "currentScore": 94.57,
-    "finalScore": 81.31,
+    "currentScore": 95.33,
+    "finalScore": 95.33,
     "currentGrade": "A",
-    "finalGrade": "B-"
+    "finalGrade": "A"
   },
   {
     "userId": 80279,
@@ -6303,10 +6303,10 @@
     "userId": 95043,
     "courseId": 28666,
     "inumber": "425909591",
-    "currentScore": 95.65,
-    "finalScore": 82.24,
+    "currentScore": 96.26,
+    "finalScore": 96.26,
     "currentGrade": "A",
-    "finalGrade": "B-"
+    "finalGrade": "A"
   },
   {
     "userId": 87933,
@@ -6375,10 +6375,10 @@
     "userId": 67597,
     "courseId": 28666,
     "inumber": "640231273",
-    "currentScore": 98.91,
-    "finalScore": 85.05,
+    "currentScore": 99.07,
+    "finalScore": 99.07,
     "currentGrade": "A",
-    "finalGrade": "B"
+    "finalGrade": "A"
   },
   {
     "userId": 86151,
@@ -6420,10 +6420,10 @@
     "userId": 22444,
     "courseId": 28666,
     "inumber": "641374802",
-    "currentScore": 90.22,
-    "finalScore": 77.57,
+    "currentScore": 91.59,
+    "finalScore": 91.59,
     "currentGrade": "A-",
-    "finalGrade": "C+"
+    "finalGrade": "A-"
   },
   {
     "userId": 51835,
@@ -6493,9 +6493,9 @@
     "courseId": 28666,
     "inumber": "155521791",
     "currentScore": 100,
-    "finalScore": 85.98,
+    "finalScore": 100,
     "currentGrade": "A",
-    "finalGrade": "B"
+    "finalGrade": "A"
   },
   {
     "userId": 95759,
@@ -6627,8 +6627,8 @@
     "userId": 8932,
     "courseId": 28448,
     "inumber": "238733842",
-    "currentScore": 94.82,
-    "finalScore": 70.9,
+    "currentScore": 96.52,
+    "finalScore": 72.15,
     "currentGrade": "A",
     "finalGrade": "C-"
   },
@@ -6681,19 +6681,19 @@
     "userId": 17479,
     "courseId": 28448,
     "inumber": "494435046",
-    "currentScore": 81.09,
-    "finalScore": 59.27,
+    "currentScore": 81.14,
+    "finalScore": 60.91,
     "currentGrade": "B-",
-    "finalGrade": "F"
+    "finalGrade": "D-"
   },
   {
     "userId": 13926,
     "courseId": 28448,
     "inumber": "385780841",
-    "currentScore": 88.98,
-    "finalScore": 65.07,
-    "currentGrade": "B+",
-    "finalGrade": "D"
+    "currentScore": 95.8,
+    "finalScore": 70.07,
+    "currentGrade": "A",
+    "finalGrade": "C-"
   },
   {
     "userId": 14861,
@@ -6717,8 +6717,8 @@
     "userId": 8094,
     "courseId": 28448,
     "inumber": "214908443",
-    "currentScore": 82.72,
-    "finalScore": 60.47,
+    "currentScore": 82.31,
+    "finalScore": 61.69,
     "currentGrade": "B-",
     "finalGrade": "D-"
   },
@@ -6825,9 +6825,9 @@
     "userId": 23555,
     "courseId": 28448,
     "inumber": "674451018",
-    "currentScore": 55.13,
-    "finalScore": 40.28,
-    "currentGrade": "F",
+    "currentScore": 68.77,
+    "finalScore": 50.28,
+    "currentGrade": "D+",
     "finalGrade": "F"
   },
   {
@@ -6888,10 +6888,10 @@
     "userId": 12763,
     "courseId": 28448,
     "inumber": "349913214",
-    "currentScore": 79.38,
-    "finalScore": 59.64,
+    "currentScore": 79.84,
+    "finalScore": 60.01,
     "currentGrade": "C+",
-    "finalGrade": "F"
+    "finalGrade": "D-"
   },
   {
     "userId": 17387,
@@ -6906,19 +6906,19 @@
     "userId": 7857,
     "courseId": 28448,
     "inumber": "208115080",
-    "currentScore": 79.91,
-    "finalScore": 58.39,
-    "currentGrade": "C+",
-    "finalGrade": "F"
+    "currentScore": 80.15,
+    "finalScore": 60.28,
+    "currentGrade": "B-",
+    "finalGrade": "D-"
   },
   {
     "userId": 23192,
     "courseId": 28448,
     "inumber": "663630144",
-    "currentScore": 88.47,
-    "finalScore": 66.35,
-    "currentGrade": "B+",
-    "finalGrade": "D"
+    "currentScore": 95.29,
+    "finalScore": 71.35,
+    "currentGrade": "A",
+    "finalGrade": "C-"
   },
   {
     "userId": 18169,
@@ -6978,10 +6978,10 @@
     "userId": 9656,
     "courseId": 28448,
     "inumber": "260592601",
-    "currentScore": 78,
-    "finalScore": 61.13,
-    "currentGrade": "C+",
-    "finalGrade": "D-"
+    "currentScore": 85.82,
+    "finalScore": 67.38,
+    "currentGrade": "B",
+    "finalGrade": "D+"
   },
   {
     "userId": 10468,
@@ -7293,8 +7293,8 @@
     "userId": 33489,
     "courseId": 28446,
     "inumber": "974399073",
-    "currentScore": 82.39,
-    "finalScore": 58.8,
+    "currentScore": 82.48,
+    "finalScore": 59.43,
     "currentGrade": "B-",
     "finalGrade": "F"
   },
@@ -7365,8 +7365,8 @@
     "userId": 18915,
     "courseId": 28446,
     "inumber": "536262539",
-    "currentScore": 90.7,
-    "finalScore": 65.51,
+    "currentScore": 90.32,
+    "finalScore": 65.76,
     "currentGrade": "A-",
     "finalGrade": "D"
   },
@@ -8175,8 +8175,8 @@
     "userId": 11881,
     "courseId": 28442,
     "inumber": "325151550",
-    "currentScore": 62.14,
-    "finalScore": 47.54,
+    "currentScore": 62.17,
+    "finalScore": 48.7,
     "currentGrade": "D-",
     "finalGrade": "F"
   },
@@ -8220,8 +8220,8 @@
     "userId": 10919,
     "courseId": 28442,
     "inumber": "297766989",
-    "currentScore": 64.98,
-    "finalScore": 48.62,
+    "currentScore": 65,
+    "finalScore": 49.29,
     "currentGrade": "D",
     "finalGrade": "F"
   },
@@ -8590,7 +8590,7 @@
     "courseId": 28440,
     "inumber": "391693883",
     "currentScore": 48.8,
-    "finalScore": 45.19,
+    "finalScore": 45.64,
     "currentGrade": "F",
     "finalGrade": "F"
   },
@@ -9453,8 +9453,8 @@
     "userId": 15726,
     "courseId": 28434,
     "inumber": "439427117",
-    "currentScore": 84.52,
-    "finalScore": 48.6,
+    "currentScore": 84.27,
+    "finalScore": 49.64,
     "currentGrade": "B",
     "finalGrade": "F"
   },
@@ -9588,9 +9588,9 @@
     "userId": 16920,
     "courseId": 28432,
     "inumber": "475962615",
-    "currentScore": 90.93,
-    "finalScore": 60.86,
-    "currentGrade": "A-",
+    "currentScore": 89.57,
+    "finalScore": 62.8,
+    "currentGrade": "B+",
     "finalGrade": "D-"
   },
   {
@@ -9723,8 +9723,8 @@
     "userId": 2322,
     "courseId": 28432,
     "inumber": "043885965",
-    "currentScore": 93.44,
-    "finalScore": 66.22,
+    "currentScore": 93.49,
+    "finalScore": 66.68,
     "currentGrade": "A",
     "finalGrade": "D"
   },
@@ -10245,10 +10245,10 @@
     "userId": 12696,
     "courseId": 28422,
     "inumber": "347997443",
-    "currentScore": 74.23,
-    "finalScore": 72.54,
+    "currentScore": 74.63,
+    "finalScore": 73.78,
     "currentGrade": "C",
-    "finalGrade": "C-"
+    "finalGrade": "C"
   },
   {
     "userId": 14099,
@@ -10290,10 +10290,10 @@
     "userId": 4336,
     "courseId": 28422,
     "inumber": "102337384",
-    "currentScore": 78.83,
-    "finalScore": 76.34,
+    "currentScore": 79.26,
+    "finalScore": 77.58,
     "currentGrade": "C+",
-    "finalGrade": "C"
+    "finalGrade": "C+"
   },
   {
     "userId": 17103,
@@ -10335,7 +10335,7 @@
     "userId": 10600,
     "courseId": 28422,
     "inumber": "288313200",
-    "currentScore": 94.25,
+    "currentScore": 93.12,
     "finalScore": 92.24,
     "currentGrade": "A",
     "finalGrade": "A-"
@@ -10380,8 +10380,8 @@
     "userId": 28893,
     "courseId": 28422,
     "inumber": "836250640",
-    "currentScore": 73.32,
-    "finalScore": 72,
+    "currentScore": 73.55,
+    "finalScore": 72.88,
     "currentGrade": "C",
     "finalGrade": "C-"
   },
@@ -10596,7 +10596,7 @@
     "userId": 3206,
     "courseId": 28422,
     "inumber": "070118081",
-    "currentScore": 82.15,
+    "currentScore": 81.38,
     "finalScore": 80.43,
     "currentGrade": "B-",
     "finalGrade": "B-"
@@ -10686,7 +10686,7 @@
     "userId": 25489,
     "courseId": 28418,
     "inumber": "735230632",
-    "currentScore": 83.95,
+    "currentScore": 83.65,
     "finalScore": 49.59,
     "currentGrade": "B",
     "finalGrade": "F"
@@ -10704,7 +10704,7 @@
     "userId": 46340,
     "courseId": 28418,
     "inumber": "896680715",
-    "currentScore": 82.82,
+    "currentScore": 82.52,
     "finalScore": 48.82,
     "currentGrade": "B-",
     "finalGrade": "F"
@@ -10714,7 +10714,7 @@
     "courseId": 28418,
     "inumber": "436929546",
     "currentScore": 98.86,
-    "finalScore": 56.26,
+    "finalScore": 56.54,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -10723,7 +10723,7 @@
     "courseId": 28418,
     "inumber": "087097322",
     "currentScore": 97.22,
-    "finalScore": 54.16,
+    "finalScore": 54.44,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -10732,7 +10732,7 @@
     "courseId": 28418,
     "inumber": "150317896",
     "currentScore": 99.12,
-    "finalScore": 56.42,
+    "finalScore": 56.69,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -10749,7 +10749,7 @@
     "userId": 17103,
     "courseId": 28418,
     "inumber": "481791946",
-    "currentScore": 78.99,
+    "currentScore": 78.1,
     "finalScore": 44.79,
     "currentGrade": "C+",
     "finalGrade": "F"
@@ -10768,7 +10768,7 @@
     "courseId": 28418,
     "inumber": "597765476",
     "currentScore": 96.94,
-    "finalScore": 55.11,
+    "finalScore": 55.39,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -10777,7 +10777,7 @@
     "courseId": 28418,
     "inumber": "259384437",
     "currentScore": 84.44,
-    "finalScore": 47.61,
+    "finalScore": 47.88,
     "currentGrade": "B",
     "finalGrade": "F"
   },
@@ -10785,7 +10785,7 @@
     "userId": 31742,
     "courseId": 28418,
     "inumber": "921760955",
-    "currentScore": 96.77,
+    "currentScore": 95.74,
     "finalScore": 55.04,
     "currentGrade": "A",
     "finalGrade": "F"
@@ -10794,7 +10794,7 @@
     "userId": 20583,
     "courseId": 28418,
     "inumber": "586853309",
-    "currentScore": 88.02,
+    "currentScore": 87.01,
     "finalScore": 49.84,
     "currentGrade": "B+",
     "finalGrade": "F"
@@ -10803,7 +10803,7 @@
     "userId": 33883,
     "courseId": 28418,
     "inumber": "985397322",
-    "currentScore": 81.61,
+    "currentScore": 80.56,
     "finalScore": 45.94,
     "currentGrade": "B-",
     "finalGrade": "F"
@@ -10812,7 +10812,7 @@
     "userId": 32236,
     "courseId": 28418,
     "inumber": "937659807",
-    "currentScore": 97.71,
+    "currentScore": 96.68,
     "finalScore": 55.61,
     "currentGrade": "A",
     "finalGrade": "F"
@@ -10821,7 +10821,7 @@
     "userId": 69045,
     "courseId": 28418,
     "inumber": "719856029",
-    "currentScore": 78.54,
+    "currentScore": 77.85,
     "finalScore": 45.09,
     "currentGrade": "C+",
     "finalGrade": "F"
@@ -10848,9 +10848,9 @@
     "userId": 11274,
     "courseId": 28418,
     "inumber": "308976118",
-    "currentScore": 73.16,
+    "currentScore": 72.33,
     "finalScore": 41.45,
-    "currentGrade": "C",
+    "currentGrade": "C-",
     "finalGrade": "F"
   },
   {
@@ -10866,7 +10866,7 @@
     "userId": 3313,
     "courseId": 28418,
     "inumber": "073837472",
-    "currentScore": 95.54,
+    "currentScore": 94.69,
     "finalScore": 54.97,
     "currentGrade": "A",
     "finalGrade": "F"
@@ -10875,8 +10875,8 @@
     "userId": 34237,
     "courseId": 28418,
     "inumber": "996710821",
-    "currentScore": 99.05,
-    "finalScore": 56.46,
+    "currentScore": 99.08,
+    "finalScore": 56.74,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -10894,7 +10894,7 @@
     "courseId": 28418,
     "inumber": "983159645",
     "currentScore": 95.72,
-    "finalScore": 54.38,
+    "finalScore": 54.65,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -10902,16 +10902,16 @@
     "userId": 28563,
     "courseId": 28418,
     "inumber": "826403817",
-    "currentScore": 80.75,
+    "currentScore": 79.71,
     "finalScore": 45.4,
-    "currentGrade": "B-",
+    "currentGrade": "C+",
     "finalGrade": "F"
   },
   {
     "userId": 22780,
     "courseId": 28418,
     "inumber": "650955264",
-    "currentScore": 91.59,
+    "currentScore": 90.65,
     "finalScore": 52.19,
     "currentGrade": "A-",
     "finalGrade": "F"
@@ -10929,7 +10929,7 @@
     "userId": 24577,
     "courseId": 28418,
     "inumber": "706036921",
-    "currentScore": 48.27,
+    "currentScore": 47.98,
     "finalScore": 27.7,
     "currentGrade": "F",
     "finalGrade": "F"
@@ -10938,8 +10938,8 @@
     "userId": 18467,
     "courseId": 28418,
     "inumber": "522781843",
-    "currentScore": 92.89,
-    "finalScore": 52.81,
+    "currentScore": 92.94,
+    "finalScore": 53.09,
     "currentGrade": "A-",
     "finalGrade": "F"
   },
@@ -10965,9 +10965,9 @@
     "userId": 45310,
     "courseId": 28418,
     "inumber": "750941582",
-    "currentScore": 90.51,
+    "currentScore": 89.47,
     "finalScore": 51.25,
-    "currentGrade": "A-",
+    "currentGrade": "B+",
     "finalGrade": "F"
   },
   {
@@ -10975,7 +10975,7 @@
     "courseId": 28418,
     "inumber": "512195004",
     "currentScore": 97.89,
-    "finalScore": 55.8,
+    "finalScore": 56.07,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -10983,7 +10983,7 @@
     "userId": 1092,
     "courseId": 28418,
     "inumber": "007907539",
-    "currentScore": 97.11,
+    "currentScore": 96.11,
     "finalScore": 55.34,
     "currentGrade": "A",
     "finalGrade": "F"
@@ -10992,8 +10992,8 @@
     "userId": 11523,
     "courseId": 28418,
     "inumber": "315244982",
-    "currentScore": 82.27,
-    "finalScore": 46.42,
+    "currentScore": 82.31,
+    "finalScore": 46.7,
     "currentGrade": "B-",
     "finalGrade": "F"
   },
@@ -11001,7 +11001,7 @@
     "userId": 5998,
     "courseId": 28418,
     "inumber": "152054148",
-    "currentScore": 75.83,
+    "currentScore": 75.39,
     "finalScore": 44.4,
     "currentGrade": "C",
     "finalGrade": "F"
@@ -11037,7 +11037,7 @@
     "userId": 28928,
     "courseId": 28418,
     "inumber": "837162685",
-    "currentScore": 96.2,
+    "currentScore": 95.16,
     "finalScore": 53.62,
     "currentGrade": "A",
     "finalGrade": "F"
@@ -11046,7 +11046,7 @@
     "userId": 24284,
     "courseId": 28418,
     "inumber": "696846026",
-    "currentScore": 77.94,
+    "currentScore": 77.22,
     "finalScore": 44.65,
     "currentGrade": "C+",
     "finalGrade": "F"
@@ -11082,8 +11082,8 @@
     "userId": 26398,
     "courseId": 28418,
     "inumber": "761545951",
-    "currentScore": 87.73,
-    "finalScore": 50.93,
+    "currentScore": 88.19,
+    "finalScore": 51.21,
     "currentGrade": "B+",
     "finalGrade": "F"
   },
@@ -11092,7 +11092,7 @@
     "courseId": 28418,
     "inumber": "019910927",
     "currentScore": 99.61,
-    "finalScore": 56.54,
+    "finalScore": 56.81,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -11100,7 +11100,7 @@
     "userId": 25388,
     "courseId": 28418,
     "inumber": "732606941",
-    "currentScore": 65.56,
+    "currentScore": 65.42,
     "finalScore": 38.9,
     "currentGrade": "D",
     "finalGrade": "F"
@@ -11217,8 +11217,8 @@
     "userId": 2020,
     "courseId": 28414,
     "inumber": "035526475",
-    "currentScore": 96.93,
-    "finalScore": 61.58,
+    "currentScore": 96.87,
+    "finalScore": 61.55,
     "currentGrade": "A",
     "finalGrade": "D-"
   },
@@ -11586,9 +11586,9 @@
     "userId": 61103,
     "courseId": 28396,
     "inumber": "269087196",
-    "currentScore": 82.5,
-    "finalScore": 61.16,
-    "currentGrade": "B-",
+    "currentScore": 83.43,
+    "finalScore": 61.81,
+    "currentGrade": "B",
     "finalGrade": "D-"
   },
   {
@@ -11613,8 +11613,8 @@
     "userId": 14094,
     "courseId": 28396,
     "inumber": "390621024",
-    "currentScore": 97.65,
-    "finalScore": 71.01,
+    "currentScore": 97.63,
+    "finalScore": 71.51,
     "currentGrade": "A",
     "finalGrade": "C-"
   },
@@ -11640,8 +11640,8 @@
     "userId": 2911,
     "courseId": 28396,
     "inumber": "061259238",
-    "currentScore": 97.88,
-    "finalScore": 71.31,
+    "currentScore": 97.87,
+    "finalScore": 71.85,
     "currentGrade": "A",
     "finalGrade": "C-"
   },
@@ -11694,8 +11694,8 @@
     "userId": 67853,
     "courseId": 28396,
     "inumber": "654678956",
-    "currentScore": 77.67,
-    "finalScore": 54.07,
+    "currentScore": 77.68,
+    "finalScore": 54.59,
     "currentGrade": "C+",
     "finalGrade": "F"
   },
@@ -12387,10 +12387,10 @@
     "userId": 46227,
     "courseId": 28390,
     "inumber": "881840939",
-    "currentScore": 67.27,
-    "finalScore": 53.82,
-    "currentGrade": "D+",
-    "finalGrade": "F"
+    "currentScore": 85.45,
+    "finalScore": 68.36,
+    "currentGrade": "B",
+    "finalGrade": "D+"
   },
   {
     "userId": 25545,
@@ -12432,18 +12432,18 @@
     "userId": 52671,
     "courseId": 28390,
     "inumber": "311480765",
-    "currentScore": 78.18,
-    "finalScore": 62.55,
-    "currentGrade": "C+",
-    "finalGrade": "D-"
+    "currentScore": 100,
+    "finalScore": 80,
+    "currentGrade": "A",
+    "finalGrade": "B-"
   },
   {
     "userId": 21835,
     "courseId": 28390,
     "inumber": "623120121",
-    "currentScore": 0,
-    "finalScore": 0,
-    "currentGrade": "F",
+    "currentScore": 63.64,
+    "finalScore": 50.91,
+    "currentGrade": "D",
     "finalGrade": "F"
   },
   {
@@ -12468,9 +12468,9 @@
     "userId": 10054,
     "courseId": 28390,
     "inumber": "271877646",
-    "currentScore": 63.64,
-    "finalScore": 50.91,
-    "currentGrade": "D",
+    "currentScore": 67.27,
+    "finalScore": 53.82,
+    "currentGrade": "D+",
     "finalGrade": "F"
   },
   {
@@ -12522,9 +12522,9 @@
     "userId": 31552,
     "courseId": 28390,
     "inumber": "916379247",
-    "currentScore": 0,
-    "finalScore": 0,
-    "currentGrade": "F",
+    "currentScore": 67.27,
+    "finalScore": 53.82,
+    "currentGrade": "D+",
     "finalGrade": "F"
   },
   {
@@ -12567,9 +12567,9 @@
     "userId": 73623,
     "courseId": 28390,
     "inumber": "969413847",
-    "currentScore": 63.64,
-    "finalScore": 50.91,
-    "currentGrade": "D",
+    "currentScore": 70.91,
+    "finalScore": 56.73,
+    "currentGrade": "C-",
     "finalGrade": "F"
   },
   {
@@ -12585,10 +12585,10 @@
     "userId": 64055,
     "courseId": 28390,
     "inumber": "435395924",
-    "currentScore": 67.27,
-    "finalScore": 53.82,
-    "currentGrade": "D+",
-    "finalGrade": "F"
+    "currentScore": 78.18,
+    "finalScore": 62.55,
+    "currentGrade": "C+",
+    "finalGrade": "D-"
   },
   {
     "userId": 72529,
@@ -12630,10 +12630,10 @@
     "userId": 34248,
     "courseId": 28390,
     "inumber": "997139275",
-    "currentScore": 78.18,
-    "finalScore": 62.55,
-    "currentGrade": "C+",
-    "finalGrade": "D-"
+    "currentScore": 81.82,
+    "finalScore": 65.45,
+    "currentGrade": "B-",
+    "finalGrade": "D"
   },
   {
     "userId": 66813,
@@ -12756,10 +12756,10 @@
     "userId": 42756,
     "courseId": 28390,
     "inumber": "369617929",
-    "currentScore": 67.27,
-    "finalScore": 53.82,
-    "currentGrade": "D+",
-    "finalGrade": "F"
+    "currentScore": 78.18,
+    "finalScore": 62.55,
+    "currentGrade": "C+",
+    "finalGrade": "D-"
   },
   {
     "userId": 42879,
@@ -12792,9 +12792,9 @@
     "userId": 25625,
     "courseId": 28390,
     "inumber": "739040401",
-    "currentScore": 63.64,
-    "finalScore": 50.91,
-    "currentGrade": "D",
+    "currentScore": 70.91,
+    "finalScore": 56.73,
+    "currentGrade": "C-",
     "finalGrade": "F"
   },
   {
@@ -12810,10 +12810,10 @@
     "userId": 8224,
     "courseId": 28390,
     "inumber": "219295400",
-    "currentScore": 67.27,
-    "finalScore": 53.82,
-    "currentGrade": "D+",
-    "finalGrade": "F"
+    "currentScore": 85.45,
+    "finalScore": 68.36,
+    "currentGrade": "B",
+    "finalGrade": "D+"
   },
   {
     "userId": 72979,
@@ -13287,9 +13287,9 @@
     "userId": 32959,
     "courseId": 28382,
     "inumber": "958541591",
-    "currentScore": 59.3,
-    "finalScore": 39.23,
-    "currentGrade": "F",
+    "currentScore": 65.79,
+    "finalScore": 43.4,
+    "currentGrade": "D",
     "finalGrade": "F"
   },
   {
@@ -13359,9 +13359,9 @@
     "userId": 22060,
     "courseId": 28382,
     "inumber": "629738073",
-    "currentScore": 77.43,
-    "finalScore": 51.17,
-    "currentGrade": "C+",
+    "currentScore": 84.57,
+    "finalScore": 55.75,
+    "currentGrade": "B",
     "finalGrade": "F"
   },
   {
@@ -13422,19 +13422,19 @@
     "userId": 87741,
     "courseId": 28382,
     "inumber": "876352551",
-    "currentScore": 70.12,
-    "finalScore": 46.3,
-    "currentGrade": "C-",
+    "currentScore": 76.61,
+    "finalScore": 50.47,
+    "currentGrade": "C",
     "finalGrade": "F"
   },
   {
     "userId": 95285,
     "courseId": 28382,
     "inumber": "484855016",
-    "currentScore": 94.35,
-    "finalScore": 62.21,
+    "currentScore": 100.77,
+    "finalScore": 70.54,
     "currentGrade": "A",
-    "finalGrade": "D-"
+    "finalGrade": "C-"
   },
   {
     "userId": 54395,
@@ -13449,9 +13449,9 @@
     "userId": 95843,
     "courseId": 28382,
     "inumber": "594580259",
-    "currentScore": 80.84,
-    "finalScore": 53.18,
-    "currentGrade": "B-",
+    "currentScore": 87.26,
+    "finalScore": 57.3,
+    "currentGrade": "B+",
     "finalGrade": "F"
   },
   {
@@ -13467,10 +13467,10 @@
     "userId": 95367,
     "courseId": 28382,
     "inumber": "501077972",
-    "currentScore": 83.21,
-    "finalScore": 54.88,
-    "currentGrade": "B",
-    "finalGrade": "F"
+    "currentScore": 79.59,
+    "finalScore": 63.16,
+    "currentGrade": "C+",
+    "finalGrade": "D"
   },
   {
     "userId": 41767,
@@ -13494,9 +13494,9 @@
     "userId": 30690,
     "courseId": 28382,
     "inumber": "889773153",
-    "currentScore": 74.34,
-    "finalScore": 49.01,
-    "currentGrade": "C",
+    "currentScore": 80.84,
+    "finalScore": 53.18,
+    "currentGrade": "B-",
     "finalGrade": "F"
   },
   {
@@ -13566,10 +13566,10 @@
     "userId": 86393,
     "courseId": 28382,
     "inumber": "460215806",
-    "currentScore": 78.52,
-    "finalScore": 51.99,
-    "currentGrade": "C+",
-    "finalGrade": "F"
+    "currentScore": 98.65,
+    "finalScore": 64.9,
+    "currentGrade": "A",
+    "finalGrade": "D"
   },
   {
     "userId": 23455,
@@ -14025,9 +14025,9 @@
     "userId": 94081,
     "courseId": 28376,
     "inumber": "236113054",
-    "currentScore": 72.86,
+    "currentScore": 64.84,
     "finalScore": 32.89,
-    "currentGrade": "C-",
+    "currentGrade": "D",
     "finalGrade": "F"
   },
   {
@@ -14052,9 +14052,9 @@
     "userId": 88199,
     "courseId": 28376,
     "inumber": "298253776",
-    "currentScore": 66.49,
-    "finalScore": 30.51,
-    "currentGrade": "D",
+    "currentScore": 70.95,
+    "finalScore": 34.83,
+    "currentGrade": "C-",
     "finalGrade": "F"
   },
   {
@@ -14070,8 +14070,8 @@
     "userId": 88153,
     "courseId": 28376,
     "inumber": "520954268",
-    "currentScore": 85.15,
-    "finalScore": 37.32,
+    "currentScore": 84.51,
+    "finalScore": 42.21,
     "currentGrade": "B",
     "finalGrade": "F"
   },
@@ -14079,8 +14079,8 @@
     "userId": 87719,
     "courseId": 28376,
     "inumber": "605452995",
-    "currentScore": 93.96,
-    "finalScore": 42.97,
+    "currentScore": 93.91,
+    "finalScore": 43.73,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -14088,8 +14088,8 @@
     "userId": 35641,
     "courseId": 28376,
     "inumber": "443676732",
-    "currentScore": 91.16,
-    "finalScore": 43.18,
+    "currentScore": 91.18,
+    "finalScore": 43.84,
     "currentGrade": "A-",
     "finalGrade": "F"
   },
@@ -14106,8 +14106,8 @@
     "userId": 60619,
     "courseId": 28376,
     "inumber": "242148882",
-    "currentScore": 98.57,
-    "finalScore": 46.37,
+    "currentScore": 98.74,
+    "finalScore": 47.17,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -14124,8 +14124,8 @@
     "userId": 4555,
     "courseId": 28376,
     "inumber": "109138642",
-    "currentScore": 94.95,
-    "finalScore": 43.32,
+    "currentScore": 94.43,
+    "finalScore": 43.6,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -14133,8 +14133,8 @@
     "userId": 86699,
     "courseId": 28376,
     "inumber": "054720444",
-    "currentScore": 72.1,
-    "finalScore": 31.99,
+    "currentScore": 71.86,
+    "finalScore": 32.39,
     "currentGrade": "C-",
     "finalGrade": "F"
   },
@@ -14142,8 +14142,8 @@
     "userId": 52167,
     "courseId": 28376,
     "inumber": "428479189",
-    "currentScore": 88.38,
-    "finalScore": 41.04,
+    "currentScore": 88.22,
+    "finalScore": 41.8,
     "currentGrade": "B+",
     "finalGrade": "F"
   },
@@ -14151,8 +14151,8 @@
     "userId": 84755,
     "courseId": 28376,
     "inumber": "185620506",
-    "currentScore": 100.14,
-    "finalScore": 47.08,
+    "currentScore": 100.2,
+    "finalScore": 47.96,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -14169,8 +14169,8 @@
     "userId": 25470,
     "courseId": 28376,
     "inumber": "734437776",
-    "currentScore": 102.18,
-    "finalScore": 50.67,
+    "currentScore": 102.28,
+    "finalScore": 51.58,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -14178,8 +14178,8 @@
     "userId": 17006,
     "courseId": 28376,
     "inumber": "478689014",
-    "currentScore": 90.85,
-    "finalScore": 40.72,
+    "currentScore": 90.92,
+    "finalScore": 41.59,
     "currentGrade": "A-",
     "finalGrade": "F"
   },
@@ -14223,8 +14223,8 @@
     "userId": 87639,
     "courseId": 28376,
     "inumber": "108794865",
-    "currentScore": 102.73,
-    "finalScore": 49.21,
+    "currentScore": 102.68,
+    "finalScore": 50.09,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -14232,8 +14232,8 @@
     "userId": 95297,
     "courseId": 28376,
     "inumber": "486913631",
-    "currentScore": 93.88,
-    "finalScore": 43.21,
+    "currentScore": 94.09,
+    "finalScore": 44,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -14241,8 +14241,8 @@
     "userId": 69879,
     "courseId": 28376,
     "inumber": "765035195",
-    "currentScore": 64.75,
-    "finalScore": 30.05,
+    "currentScore": 64.8,
+    "finalScore": 30.52,
     "currentGrade": "D",
     "finalGrade": "F"
   },
@@ -14259,8 +14259,8 @@
     "userId": 96691,
     "courseId": 28376,
     "inumber": "771625823",
-    "currentScore": 102.39,
-    "finalScore": 49.62,
+    "currentScore": 102.46,
+    "finalScore": 50.44,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -14286,8 +14286,8 @@
     "userId": 80285,
     "courseId": 28376,
     "inumber": "471982598",
-    "currentScore": 94.92,
-    "finalScore": 43.9,
+    "currentScore": 94.81,
+    "finalScore": 44.7,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -14313,8 +14313,8 @@
     "userId": 86323,
     "courseId": 28376,
     "inumber": "582117203",
-    "currentScore": 57.55,
-    "finalScore": 26.47,
+    "currentScore": 57.91,
+    "finalScore": 26.83,
     "currentGrade": "F",
     "finalGrade": "F"
   },
@@ -14331,8 +14331,8 @@
     "userId": 54129,
     "courseId": 28376,
     "inumber": "235710500",
-    "currentScore": 99.18,
-    "finalScore": 46.62,
+    "currentScore": 99.33,
+    "finalScore": 47.49,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -14349,8 +14349,8 @@
     "userId": 89217,
     "courseId": 28376,
     "inumber": "934095653",
-    "currentScore": 91.38,
-    "finalScore": 40.49,
+    "currentScore": 91.44,
+    "finalScore": 41.33,
     "currentGrade": "A-",
     "finalGrade": "F"
   },
@@ -14376,8 +14376,8 @@
     "userId": 42044,
     "courseId": 28376,
     "inumber": "266936709",
-    "currentScore": 83.36,
-    "finalScore": 34.98,
+    "currentScore": 83.56,
+    "finalScore": 35.62,
     "currentGrade": "B",
     "finalGrade": "F"
   },
@@ -14385,8 +14385,8 @@
     "userId": 95715,
     "courseId": 28376,
     "inumber": "569925051",
-    "currentScore": 96.34,
-    "finalScore": 45.45,
+    "currentScore": 96.26,
+    "finalScore": 46.21,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -14403,8 +14403,8 @@
     "userId": 62471,
     "courseId": 28376,
     "inumber": "345338098",
-    "currentScore": 94.43,
-    "finalScore": 43.85,
+    "currentScore": 94.87,
+    "finalScore": 44.72,
     "currentGrade": "A",
     "finalGrade": "F"
   },
@@ -14439,10 +14439,10 @@
     "userId": 2717,
     "courseId": 28372,
     "inumber": "055825651",
-    "currentScore": 71.45,
-    "finalScore": 58.36,
-    "currentGrade": "C-",
-    "finalGrade": "F"
+    "currentScore": 73.6,
+    "finalScore": 60.21,
+    "currentGrade": "C",
+    "finalGrade": "D-"
   },
   {
     "userId": 92725,
@@ -14466,10 +14466,10 @@
     "userId": 97279,
     "courseId": 28372,
     "inumber": "898536729",
-    "currentScore": 98.4,
-    "finalScore": 79.49,
+    "currentScore": 98.24,
+    "finalScore": 84.49,
     "currentGrade": "A",
-    "finalGrade": "C+"
+    "finalGrade": "B"
   },
   {
     "userId": 25712,
@@ -14484,10 +14484,10 @@
     "userId": 92905,
     "courseId": 28372,
     "inumber": "010884983",
-    "currentScore": 105,
-    "finalScore": 85.14,
+    "currentScore": 104.81,
+    "finalScore": 90.14,
     "currentGrade": "A",
-    "finalGrade": "B"
+    "finalGrade": "A-"
   },
   {
     "userId": 74911,
@@ -14502,10 +14502,10 @@
     "userId": 62863,
     "courseId": 28372,
     "inumber": "364679820",
-    "currentScore": 100.47,
-    "finalScore": 81.27,
+    "currentScore": 100.31,
+    "finalScore": 86.27,
     "currentGrade": "A",
-    "finalGrade": "B-"
+    "finalGrade": "B"
   },
   {
     "userId": 57851,
@@ -14556,10 +14556,10 @@
     "userId": 49485,
     "courseId": 28372,
     "inumber": "947565950",
-    "currentScore": 86.32,
-    "finalScore": 71.07,
-    "currentGrade": "B",
-    "finalGrade": "C-"
+    "currentScore": 89.09,
+    "finalScore": 73.45,
+    "currentGrade": "B+",
+    "finalGrade": "C"
   },
   {
     "userId": 20196,
@@ -14574,10 +14574,10 @@
     "userId": 96943,
     "courseId": 28372,
     "inumber": "822033217",
-    "currentScore": 94.32,
-    "finalScore": 76.05,
+    "currentScore": 97.08,
+    "finalScore": 78.43,
     "currentGrade": "A",
-    "finalGrade": "C"
+    "finalGrade": "C+"
   },
   {
     "userId": 100369,
@@ -14718,19 +14718,19 @@
     "userId": 57399,
     "courseId": 28372,
     "inumber": "067744726",
-    "currentScore": 88.57,
-    "finalScore": 71.01,
-    "currentGrade": "B+",
+    "currentScore": 90.78,
+    "finalScore": 72.91,
+    "currentGrade": "A-",
     "finalGrade": "C-"
   },
   {
     "userId": 1069,
     "courseId": 28372,
     "inumber": "007058086",
-    "currentScore": 100.23,
-    "finalScore": 78.62,
+    "currentScore": 100.22,
+    "finalScore": 81.02,
     "currentGrade": "A",
-    "finalGrade": "C+"
+    "finalGrade": "B-"
   },
   {
     "userId": 16808,
@@ -14745,8 +14745,8 @@
     "userId": 67597,
     "courseId": 28372,
     "inumber": "640231273",
-    "currentScore": 96.94,
-    "finalScore": 77.22,
+    "currentScore": 96.46,
+    "finalScore": 79.14,
     "currentGrade": "A",
     "finalGrade": "C+"
   },
@@ -14763,8 +14763,8 @@
     "userId": 86151,
     "courseId": 28372,
     "inumber": "970092505",
-    "currentScore": 84.51,
-    "finalScore": 67.91,
+    "currentScore": 86.66,
+    "finalScore": 69.76,
     "currentGrade": "B",
     "finalGrade": "D+"
   },
@@ -14772,10 +14772,10 @@
     "userId": 80331,
     "courseId": 28372,
     "inumber": "443093226",
-    "currentScore": 76.83,
-    "finalScore": 62.61,
-    "currentGrade": "C",
-    "finalGrade": "D-"
+    "currentScore": 78.55,
+    "finalScore": 64.08,
+    "currentGrade": "C+",
+    "finalGrade": "D"
   },
   {
     "userId": 30934,
@@ -14799,18 +14799,18 @@
     "userId": 32810,
     "courseId": 28372,
     "inumber": "954170470",
-    "currentScore": 80.2,
-    "finalScore": 65.52,
+    "currentScore": 82.23,
+    "finalScore": 67.27,
     "currentGrade": "B-",
-    "finalGrade": "D"
+    "finalGrade": "D+"
   },
   {
     "userId": 88349,
     "courseId": 28372,
     "inumber": "828375206",
-    "currentScore": 91.01,
-    "finalScore": 73.18,
-    "currentGrade": "A-",
+    "currentScore": 93.68,
+    "finalScore": 75.48,
+    "currentGrade": "A",
     "finalGrade": "C"
   },
   {
@@ -14844,28 +14844,28 @@
     "userId": 48957,
     "courseId": 28372,
     "inumber": "364524546",
-    "currentScore": 82.93,
-    "finalScore": 66.82,
-    "currentGrade": "B-",
-    "finalGrade": "D"
+    "currentScore": 85.83,
+    "finalScore": 69.32,
+    "currentGrade": "B",
+    "finalGrade": "D+"
   },
   {
     "userId": 27694,
     "courseId": 28372,
     "inumber": "800042048",
-    "currentScore": 102.8,
-    "finalScore": 83.24,
+    "currentScore": 102.6,
+    "finalScore": 88.24,
     "currentGrade": "A",
-    "finalGrade": "B"
+    "finalGrade": "B+"
   },
   {
     "userId": 93353,
     "courseId": 28372,
     "inumber": "100106799",
-    "currentScore": 104.06,
-    "finalScore": 84.34,
+    "currentScore": 103.89,
+    "finalScore": 89.34,
     "currentGrade": "A",
-    "finalGrade": "B"
+    "finalGrade": "B+"
   },
   {
     "userId": 65351,
@@ -15564,18 +15564,18 @@
     "userId": 94101,
     "courseId": 28368,
     "inumber": "240638864",
-    "currentScore": 67.27,
-    "finalScore": 53.82,
-    "currentGrade": "D+",
+    "currentScore": 74.55,
+    "finalScore": 59.64,
+    "currentGrade": "C",
     "finalGrade": "F"
   },
   {
     "userId": 29809,
     "courseId": 28368,
     "inumber": "863706987",
-    "currentScore": 67.27,
-    "finalScore": 53.82,
-    "currentGrade": "D+",
+    "currentScore": 74.55,
+    "finalScore": 59.64,
+    "currentGrade": "C",
     "finalGrade": "F"
   },
   {
@@ -15645,10 +15645,10 @@
     "userId": 53241,
     "courseId": 28368,
     "inumber": "789583779",
-    "currentScore": 67.27,
-    "finalScore": 53.82,
-    "currentGrade": "D+",
-    "finalGrade": "F"
+    "currentScore": 100,
+    "finalScore": 80,
+    "currentGrade": "A",
+    "finalGrade": "B-"
   },
   {
     "userId": 19228,
@@ -15690,18 +15690,18 @@
     "userId": 28625,
     "courseId": 28368,
     "inumber": "828575294",
-    "currentScore": 81.82,
-    "finalScore": 65.45,
-    "currentGrade": "B-",
-    "finalGrade": "D"
+    "currentScore": 92.73,
+    "finalScore": 74.18,
+    "currentGrade": "A-",
+    "finalGrade": "C"
   },
   {
     "userId": 131755,
     "courseId": 28368,
     "inumber": "613918769",
-    "currentScore": 67.27,
-    "finalScore": 53.82,
-    "currentGrade": "D+",
+    "currentScore": 74.55,
+    "finalScore": 59.64,
+    "currentGrade": "C",
     "finalGrade": "F"
   },
   {
@@ -15762,10 +15762,10 @@
     "userId": 25893,
     "courseId": 28368,
     "inumber": "746247851",
-    "currentScore": 67.27,
-    "finalScore": 53.82,
-    "currentGrade": "D+",
-    "finalGrade": "F"
+    "currentScore": 85.45,
+    "finalScore": 68.36,
+    "currentGrade": "B",
+    "finalGrade": "D+"
   },
   {
     "userId": 71541,
